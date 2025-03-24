@@ -12,9 +12,10 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
         
+        
       },
       backgroundImage: {
-       carBg: "url('/car-bg.jpg')",
+       carBg: "url('/car.jpg')",
       }
     },
   },
